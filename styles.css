@@ -29,7 +29,7 @@ nav ul li a {
 
 footer {
     text-align: center;
-    padding: 10px 0; /* Reduced padding for a more compact design */
+    padding: 20px 0; /* Increased padding for improved visual balance */
     background: #333;
     color: #fff;
     position: relative;
